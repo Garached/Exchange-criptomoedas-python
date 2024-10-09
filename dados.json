@@ -1,0 +1,126 @@
+[
+    {
+        "nome": "Gabriela Abi Rached Dantas",
+        "cpf": "12312312345",
+        "senha": "123456",
+        "reais": 58.0,
+        "bitcoin": 33618.20533209307,
+        "ethereum": 3121.4017001546235,
+        "ripple": 2.0173742417791063,
+        "extrato": [
+            {
+                "data": "18-05-2024",
+                "hora": "14:49",
+                "operacao": "+",
+                "valor": 10,
+                "moeda": "REAL"
+            },
+            {
+                "data": "18-05-2024",
+                "hora": "14:49",
+                "operacao": "-",
+                "valor": 10.0,
+                "moeda": "REAL"
+            },
+            {
+                "data": "18-05-2024",
+                "hora": "14:50",
+                "operacao": "compra",
+                "valor": 10.0,
+                "moeda": "BTC"
+            },
+            {
+                "data": "18-05-2024",
+                "hora": "14:50",
+                "operacao": "venda",
+                "valor": 10.0,
+                "moeda": "BTC"
+            },
+            {
+                "data": "22-05-2024",
+                "hora": "17:15",
+                "operacao": "compra",
+                "valor": 10.0,
+                "moeda": "BTC"
+            },
+            {
+                "data": "23-05-2024",
+                "hora": "21:03",
+                "operacao": "compra",
+                "valor": 12.0,
+                "moeda": "BTC"
+            },
+            {
+                "data": "23-05-2024",
+                "hora": "21:48",
+                "operacao": "-",
+                "valor": 40.0,
+                "moeda": "REAL"
+            },
+            {
+                "data": "23-05-2024",
+                "hora": "21:55",
+                "operacao": "compra",
+                "valor": 10.0,
+                "moeda": "BTC"
+            },
+            {
+                "data": "23-05-2024",
+                "hora": "21:56",
+                "operacao": "venda",
+                "valor": 20.0,
+                "moeda": "ETH"
+            }
+        ]
+    },
+    {
+        "nome": "Guilherme ",
+        "cpf": "12345678900",
+        "senha": "1234567",
+        "reais": 20.0,
+        "bitcoin": 33383.061886040065,
+        "ethereum": 2238.5483566032112,
+        "ripple": 1.7674646702506818,
+        "extrato": [
+            {
+                "data": "22-05-2024",
+                "hora": "11:55",
+                "operacao": "+",
+                "valor": 20,
+                "moeda": "REAL"
+            }
+        ]
+    },
+    {
+        "nome": "Andrea ",
+        "cpf": "12345654321",
+        "senha": "1234",
+        "reais": 70.0,
+        "bitcoin": 0.0,
+        "ethereum": 0.0,
+        "ripple": 19.6638072734011,
+        "extrato": [
+            {
+                "data": "23-05-2024",
+                "hora": "21:57",
+                "operacao": "+",
+                "valor": 100,
+                "moeda": "REAL"
+            },
+            {
+                "data": "23-05-2024",
+                "hora": "21:57",
+                "operacao": "compra",
+                "valor": 20.0,
+                "moeda": "XRP"
+            },
+            {
+                "data": "23-05-2024",
+                "hora": "21:57",
+                "operacao": "-",
+                "valor": 10.0,
+                "moeda": "REAL"
+            }
+        ]
+    }
+]
